@@ -50,5 +50,7 @@ categories: [总]
     nextVal[j]		0 0 0 0 0 0 0 0 8
     ```
 
+- [e.g.] 已知串S=’aaab’，则next数组值为
+    > 0123
 
 
