@@ -11,7 +11,8 @@ categories: [总]
     - `j`从1开始
     - `next[1]`固定为0, `next[2]` 固定为1
     - `nextVal[1]`固定为0
-<!--more-->
+
+<!-- more -->
 
 # 例题
 - [e.g.] `s=ababaaaba`
