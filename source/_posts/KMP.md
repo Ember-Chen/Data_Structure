@@ -1,7 +1,6 @@
 ---
 title: KMP
 date: 2024-05-13
-categories: [总]
 ---
 
 # 算法
